@@ -7,18 +7,19 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 
 #### Estrutura
 
-|    conf    ||
+|    /conf    ||
 |------------|------------|
 | config.php | configurações e dados do(s) db(s)|<br>
-<br>
-
-|    outros    ||
+|    /outros    ||
 |------------|------------|
 | atalho.url | Atalho que o agendador de tarefas ira procurar |
 | Consulta.xml | arquivo xml para importação no agendador de tarefas do Windows |
-
-<br>
-
-|    sql    ||
+|    /sql    ||
 |------------|------------|
 | db.sql | estrutura do db utilizado para armazenar registros |
+
+
+
+
+### Agradecimento
+Este arquivo foi estilizado graças a este [passo a passo]{https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8}
