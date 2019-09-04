@@ -6,6 +6,6 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 <br>
 
 #### Estrutura
-|    conf    |
-|------------|
-| config.php |
+|    conf    ||
+|------------|------------|
+| config.php | configurações e dados do(s) db(s)|
