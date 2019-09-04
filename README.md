@@ -21,8 +21,13 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 |    /sql    ||
 |------------|------------|
 | db.sql | estrutura do db utilizado para armazenar registros |
+<br>
 
-
+|||
+|------------|------------|
+| consuta.php | Listagem do numero de 'conectados' ao BD por dia |
+| index.html | Arquivo inicial do projeto, de onde de pode consultar ou inserir manualmente |
+| insere.php | Realizada a inserção no bd da lista de 'conectados' ao db no momento da execução |
 
 
 ### Agradecimento
