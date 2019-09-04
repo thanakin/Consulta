@@ -20,4 +20,5 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 <br>
 
 |    sql    ||
+|------------|------------|
 | db.sql | estrutura do db utilizado para armazenar registros |
