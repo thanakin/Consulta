@@ -21,13 +21,3 @@ $db2 = 'teste';
 $port2 = 3305;
 //$con2 = mysqli_connect($server2, $user2, $pass2, $db2, $port2);
 /* */
-
-/* */ 
-// casa
-$server3 = 'localhost';
-$user3 = 'root';
-$pass3 = '';
-$db3 = 'teste';
-$port3 = 3307;
-//$con3 = mysqli_connect($server3, $user3, $pass3, $db3, $port3);
-/* */
