@@ -9,11 +9,13 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 
 |    /conf    ||
 |------------|------------|
-| config.php | configurações e dados do(s) db(s)|<br>
+| config.php | configurações e dados do(s) db(s)|
+<br>
 |    /outros    ||
 |------------|------------|
 | atalho.url | Atalho que o agendador de tarefas ira procurar |
 | Consulta.xml | arquivo xml para importação no agendador de tarefas do Windows |
+<br>
 |    /sql    ||
 |------------|------------|
 | db.sql | estrutura do db utilizado para armazenar registros |
@@ -22,4 +24,4 @@ Apesar de existir outras formas mais praticas de faze-lo, esta era a solução d
 
 
 ### Agradecimento
-Este arquivo foi estilizado graças a este [passo a passo]{https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8}
+Este arquivo foi estilizado graças a este [passo a passo](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonitão-c85c8f154f8)
